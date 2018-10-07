@@ -12,8 +12,6 @@ You can download more quality plugins from the following repos:
 
 *Currently, only Windows and Ubuntu 18.04+ are supported for the new installer, due to lack of devices to compile on*
 
-Go to https://enhanceddiscord.com/ and hit the 'Download' button, or if you're lazy, click [here](https://enhanceddiscord.com/EnhancedDiscord.exe).
-
 If you're having errors (especially related to `InteropServices`), you may need to download [.NET Framework 4.7.1](https://www.microsoft.com/en-us/download/details.aspx?id=56116).
 
 
