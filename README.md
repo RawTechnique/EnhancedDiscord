@@ -1,10 +1,6 @@
 # EnhancedDiscord
 A simple way to load plugins and themes on Discord without token stealing and lag.
 
-Support server:
-<a href="https://discord.gg/XAvh9tq"><img src="https://discordapp.com/api/guilds/415246389287583755/embed.png" alt="Discord server" /></a>
-(https://discord.gg/XAvh9tq)
-
 By default, this loads my theme, with some settings applied. More info [on its repo](https://github.com/joe27g/Discord-Theme). To change this, edit `plugins/style.css` or change the theme location in settings.
 
 You can download more quality plugins from the following repos:
@@ -20,15 +16,6 @@ Go to https://enhanceddiscord.com/ and hit the 'Download' button, or if you're l
 
 If you're having errors (especially related to `InteropServices`), you may need to download [.NET Framework 4.7.1](https://www.microsoft.com/en-us/download/details.aspx?id=56116).
 
-### ~~Installing the old way:~~
-
-~~You can also use the console installer (no GUI.)~~
-
-~~*Currently, only Windows is supported for this installer as well.*~~
-
-~~Download: https://enhanceddiscord.com/ED_cmdline_BETA.exe~~
-
-*(this installer is outdated and will most likely not work.)*
 
 ### Installing the hard way:
 
